@@ -7,9 +7,9 @@ body {
 	color: #eeeee4;
 }
 
-* {
+/* * {
 	box-sizing: border-box;
-}
+} */
 #main {
 	display: flex;
 	flex-grow: 1;
